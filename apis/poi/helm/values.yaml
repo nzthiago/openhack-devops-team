@@ -4,7 +4,7 @@
 
 replicaCount: 2
 repository:
-  image: acrreplace.azurecr.io/devopsoh/imagereplace
+  image: openhackf814acr.azurecr.io/nzthiago/openhack-devops-team
   tag: latest
   pullPolicy: Always
 image:
